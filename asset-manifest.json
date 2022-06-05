@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-wayc-dao/static/css/main.0b95631a.css",
+    "main.js": "/react-wayc-dao/static/js/main.0344cdeb.js",
+    "static/media/EuclidSquare-Medium.eot": "/react-wayc-dao/static/media/EuclidSquare-Medium.be7f5486db564b81a5e2.eot",
+    "static/media/EuclidSquare-Regular.eot": "/react-wayc-dao/static/media/EuclidSquare-Regular.417d108aaabc7951cc23.eot",
+    "static/media/EuclidSquare-Medium.ttf": "/react-wayc-dao/static/media/EuclidSquare-Medium.61fa6c7ddc7c192075dd.ttf",
+    "static/media/EuclidSquare-Regular.ttf": "/react-wayc-dao/static/media/EuclidSquare-Regular.446681644476338def3c.ttf",
+    "static/media/EuclidSquare-Bold.eot": "/react-wayc-dao/static/media/EuclidSquare-Bold.227166130a2ac1b654c7.eot",
+    "static/media/EuclidSquare-Bold.ttf": "/react-wayc-dao/static/media/EuclidSquare-Bold.dd31ecd932c33efba1ed.ttf",
+    "static/media/EuclidSquare-Medium.woff": "/react-wayc-dao/static/media/EuclidSquare-Medium.8026c8db30dba86056e4.woff",
+    "static/media/EuclidSquare-Regular.woff": "/react-wayc-dao/static/media/EuclidSquare-Regular.5c5dedb1f441f6a6b703.woff",
+    "static/media/EuclidSquare-Bold.woff": "/react-wayc-dao/static/media/EuclidSquare-Bold.22d0be7b93dfada5df1b.woff",
+    "static/media/EuclidSquare-Medium.woff2": "/react-wayc-dao/static/media/EuclidSquare-Medium.38b620d29e710428df89.woff2",
+    "static/media/EuclidSquare-Regular.woff2": "/react-wayc-dao/static/media/EuclidSquare-Regular.72068a4763345b600384.woff2",
+    "static/media/EuclidSquare-Bold.woff2": "/react-wayc-dao/static/media/EuclidSquare-Bold.241cd0d58605ad428571.woff2",
+    "static/media/currency-feature-img.png": "/react-wayc-dao/static/media/currency-feature-img.aa96bba313451a11033c.png",
+    "static/media/currency-description-img.JPG": "/react-wayc-dao/static/media/currency-description-img.ea9096ab92c3774c3ea8.JPG",
+    "index.html": "/react-wayc-dao/index.html",
+    "main.0b95631a.css.map": "/react-wayc-dao/static/css/main.0b95631a.css.map",
+    "main.0344cdeb.js.map": "/react-wayc-dao/static/js/main.0344cdeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b95631a.css",
+    "static/js/main.0344cdeb.js"
+  ]
+}
