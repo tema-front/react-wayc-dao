@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-wayc-dao/static/css/main.bf0fa079.css",
-    "main.js": "/react-wayc-dao/static/js/main.fe0cd94a.js",
+    "main.js": "/react-wayc-dao/static/js/main.901427b4.js",
     "static/media/EuclidSquare-Medium.eot": "/react-wayc-dao/static/media/EuclidSquare-Medium.be7f5486db564b81a5e2.eot",
     "static/media/EuclidSquare-Regular.eot": "/react-wayc-dao/static/media/EuclidSquare-Regular.417d108aaabc7951cc23.eot",
     "static/media/EuclidSquare-Medium.ttf": "/react-wayc-dao/static/media/EuclidSquare-Medium.61fa6c7ddc7c192075dd.ttf",
@@ -18,10 +18,10 @@
     "static/media/currency-description-img.JPG": "/react-wayc-dao/static/media/currency-description-img.ea9096ab92c3774c3ea8.JPG",
     "index.html": "/react-wayc-dao/index.html",
     "main.bf0fa079.css.map": "/react-wayc-dao/static/css/main.bf0fa079.css.map",
-    "main.fe0cd94a.js.map": "/react-wayc-dao/static/js/main.fe0cd94a.js.map"
+    "main.901427b4.js.map": "/react-wayc-dao/static/js/main.901427b4.js.map"
   },
   "entrypoints": [
     "static/css/main.bf0fa079.css",
-    "static/js/main.fe0cd94a.js"
+    "static/js/main.901427b4.js"
   ]
 }
